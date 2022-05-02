@@ -1,0 +1,1 @@
+# Para rodar essa aplicação, faça o unzip dos arquivos da pasta 'zips' aqui dentro.
